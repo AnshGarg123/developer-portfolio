@@ -2,13 +2,9 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and achievements as a Software Engineering student.
 
-## 🌐 **Live Demo**
-**(file:///C:/Users/Ansh%20Garg/Downloads/developer-portfolio/index.html)**
 
-## 📂 **Repository**
-**[GitHub Repository](https://github.com/anshgarg/developer-portfolio)**
 
----
+
 
 ## ✨ Features
 
@@ -183,7 +179,7 @@ Edit `script.js` to:
 ## 🔗 **Social Links**
 
 - **GitHub**: [github.com/anshgarg](https://github.com/anshgarg)
-- **LinkedIn**: [linkedin.com/in/anshgarg](https://linkedin.com/in/anshgarg)
+
 
 ## 📝 **License**
 
