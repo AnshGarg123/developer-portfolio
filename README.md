@@ -200,4 +200,4 @@ Feel free to fork this project and customize it for your own portfolio. If you f
 
 **Built with ❤️ by Ansh Garg**
 
-*Last updated: December 2024* 
+*Last updated: June 2025* 
